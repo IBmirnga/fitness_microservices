@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="fitnessactivity@fitness-activity.6u3rrih.mongodb.net">
+  <database-model serializer="dbm" dbms="MONGO" family-id="MONGO" format-version="4.53">
+    <root id="1">
+      <ServerVersion>8.0.12</ServerVersion>
+    </root>
+    <schema id="2" parent="1" name="admin"/>
+    <schema id="3" parent="1" name="local"/>
+    <schema id="4" parent="1" name="fitnessactivity">
+      <Current>1</Current>
+      <LastIntrospectionLocalTimestamp>2025-08-20.12:45:27</LastIntrospectionLocalTimestamp>
+    </schema>
+    <table id="5" parent="4" name="activities"/>
+  </database-model>
+</dataSource>
